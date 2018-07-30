@@ -1,0 +1,27 @@
+#etchASketchContainer {
+    width: 512px;
+    height: 512px;
+    outline: 1px solid;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+#header {
+    text-align: center;
+}
+#buttonWrapper, #colorOptions{
+    width: 512px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+#clear {
+    margin: 5px;
+}
+div div {
+    /*outline: 1px solid;*/
+    float: left;
+}
